@@ -8,7 +8,7 @@ You can download and test the APK from here:
 
 ## 🎥 App Demo Video
 Watch the app working here:
-<video src="./demo-video.mp4" controls width="300"></video>
+[Watch Video](./demo-video.mp4)
 
 ## 📝 Notes
 - APK is built in release mode
